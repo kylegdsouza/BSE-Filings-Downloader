@@ -1,8 +1,4 @@
-import requests
-import json
-import time 
-import os
-import csv
+import requests, json, time, os, csv
 from datetime import date as dt
 from datetime import timedelta
 
