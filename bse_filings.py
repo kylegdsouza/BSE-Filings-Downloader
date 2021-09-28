@@ -1,6 +1,7 @@
 import requests, json, time, os, csv
 from datetime import date as dt
 from datetime import timedelta
+import pandas as pd
 
 old_date = dt(2011, 1, 1)
 end_date = dt.today()
